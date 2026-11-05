@@ -1,9 +1,6 @@
-# nf1-single-cell-malignancy-classification
-Reproducible scRNA-seq workflow for malignant cell identification and classification in NF1-associated tumors using machine learning.
-
 # NF1 Single-Cell Malignancy Classification
 
-**An R-to-Python computational workflow for single-cell transcriptomic analysis, biologically informed malignancy labeling, feature engineering, and machine learning in NF1-associated tumors.**
+**An scRNA-seq workflow for malignant cell identification and classification in NF1-associated tumors using machine learning.**
 
 **Author:** Marta Morais Alonso  
 **Master's Thesis:** Bioinformatics and Biostatistics — Universitat Oberta de Catalunya (UOC) / Universitat de Barcelona (UB)  
